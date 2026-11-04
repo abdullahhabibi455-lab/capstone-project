@@ -1,0 +1,6 @@
+train: C:\Users\HYPE-R\Desktop\New folder\project_pisang\banana_ripeness_yolov8\train\images
+
+val: C:\Users\HYPE-R\Desktop\New folder\project_pisang\banana_ripeness_yolov8\val\images
+
+nc: 3
+names: ['Unripe', 'Ripe', 'Overripe']
